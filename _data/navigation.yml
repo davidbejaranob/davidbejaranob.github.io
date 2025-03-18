@@ -15,8 +15,11 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV"
+  - title: "English CV"
     url: https://docs.google.com/document/d/1cDPh59W-VHAyF-lqhwzK-Qges0pix07C2OBikGJE1i0/export?format=pdf
+    
+  - title: "Japanese CV"
+    url: https://docs.google.com/document/d/1vRazW6omBV4ZY7t3H6S8ddNO5ogY0XbvhI_oHXd_Ba8/export?format=pdf
     
   #- title: "Guide"
   #  url: /markdown/
